@@ -1,0 +1,3 @@
+SECRET_KEY=testing
+DATABASE_URI=postgresql://{user}:{password}@localhost:5432/{db_name}
+
